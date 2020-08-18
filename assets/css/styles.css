@@ -205,11 +205,11 @@ img {
 }
 .home__social {
   display: flex;
-  flex-direction: column;
 }
 .home__social-icon {
   width: max-content;
   margin-bottom: var(--mb-2);
+  margin-right: 25px;
   font-size: 2rem;
   color: var(--second-color);
 }
@@ -220,7 +220,7 @@ img {
   position: absolute;
   right: 0;
   bottom: 0;
-  width: 200px;
+  width: 250px;
 }
 
 /*BUTTONS*/
