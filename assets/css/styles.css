@@ -218,9 +218,9 @@ img {
 }
 .home__img {
   position: absolute;
-  right: 0;
-  bottom: 0;
-  width: 250px;
+  right: 10%;
+  top: 50%;
+  width: 190px;
 }
 
 /*BUTTONS*/
@@ -420,7 +420,6 @@ img {
   }
   .home__img {
     width: 357px;
-    bottom: 15%;
   }
   .home__title {
     font-size: 3rem;
